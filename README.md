@@ -18,7 +18,7 @@ The project aims to optimize the food management and distribution process from p
 
 ## Tech Stack
 
-**Web:** React(TS)
+**Web:** NextJs(TS)
 
 **Mobile:** Flutter(Dart)
 
